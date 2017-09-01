@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_57d8c71054daaada5877ea3001b13c569db23f1d.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.8.0_8e5ba5051fb0aa53de73ae0e3c23557d19bd3690.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_4b870c7eec3e4c92e01a7c6d7df1f889f22d77e9.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.8.0_1abda30f2eeac020fddf1839b7e0da76b0730e21.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_406ff793abc7073ed3720460508fb72d1e858ade.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/gson-2.6.1_16ddc78a0e46a151e4783f1b769dc353da5bbbc3.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/library-1.0.19_7135828881d73952259ec2c4bea6825f2fc215be.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_5eed80bbe60e73707d6d50b272021d030e4bbffc.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_75ff8c3e1b88ba2ccced0c8cad8be9d681607209.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.8.0_d056092707bcdc6e2e7c068edb8ad0f76d7736cf.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_2ea94ea5142496604ca0f771706dbac0cc661ec3.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/javax.inject-1_a5f5a0fbe9f63993b12c0fc5e7b26c1403660aca.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_808c2956c48b9421900daf60f6ccf1a343001bd9.jar" />
+    </item>
+    <item
+        jar="/Users/amaresh/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/amaresh/Documents/AndroidGsonParser/app/build/intermediates/pre-dexed/debug/dagger-1.2.2_68cccb0014f6d25b54bb6316d8aaa445c3a9f1f0.jar" />
+    </item>
+
+</items>
